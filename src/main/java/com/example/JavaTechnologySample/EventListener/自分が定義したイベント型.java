@@ -1,4 +1,4 @@
-package com.example.JavaTechnologySample.eventListener;
+package com.example.JavaTechnologySample.EventListener;
 
 import org.springframework.context.ApplicationEvent;
 
